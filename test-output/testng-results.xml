@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-05T17:26:22 IST" name="Default suite" finished-at="2022-06-05T17:26:29 IST" duration-ms="7614">
+    <groups>
+    </groups>
+    <test started-at="2022-06-05T17:26:22 IST" name="Default test" finished-at="2022-06-05T17:26:29 IST" duration-ms="7614">
+      <class name="TestCases.SignUp">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:21 IST" name="beforesuit" finished-at="2022-06-05T17:26:22 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method is-config="true" signature="btest()[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:22 IST" name="btest" finished-at="2022-06-05T17:26:26 IST" duration-ms="4676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method is-config="true" signature="bmethod(java.lang.reflect.Method)[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:26 IST" name="bmethod" finished-at="2022-06-05T17:26:26 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.SignUp.Signup()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method signature="Signup()[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:26 IST" name="Signup" finished-at="2022-06-05T17:26:29 IST" duration-ms="2266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:29 IST" name="getResult" finished-at="2022-06-05T17:26:29 IST" duration-ms="175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Signup status=SUCCESS method=SignUp.Signup()[pri:0, instance:TestCases.SignUp@a38c7fe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="aftest()[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:29 IST" name="aftest" finished-at="2022-06-05T17:26:29 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftest -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:TestCases.SignUp@a38c7fe]" started-at="2022-06-05T17:26:29 IST" name="aftersuit" finished-at="2022-06-05T17:26:30 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- TestCases.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
